@@ -1,5 +1,5 @@
 (function() {
-  var ASSET = "https://www.freeiconspng.com/thumbs/dvd-logo-png/dvd-logo-png-7.png";
+  var ASSET = "https://mrcoles.com/media/img/sea-serpent-cutout.png";
   var WIDTH = 212;
   var HEIGHT = 104;
   var VERT_DIRECTIONS = ["up", "down"];
