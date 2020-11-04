@@ -55,7 +55,7 @@
     }
   }
 
-  var original = window.SeaDragon;
+  var original = window.dvd;
 
   var self = (window.dvd = {
     add: add,
